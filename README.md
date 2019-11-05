@@ -32,6 +32,8 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Technologies Used
 
 [In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.]::
+- Visual Studio 2019 (https://visualstudio.microsoft.com/vs/) - is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
+- Jasmine (https://jasmine.github.io/) - is a behavior-driven development framework for testing JavaScript code.
 
 ## Testing
 
